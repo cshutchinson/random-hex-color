@@ -1,0 +1,28 @@
+{
+  "name": "randomhexcolor",
+  "version": "1.0.0",
+  "description": "function returns a random hex string for color",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshutchinson/random-hex-color.git"
+  },
+  "keywords": [
+    "random",
+    "hex",
+    "color",
+    "string"
+  ],
+  "author": "Christopher Hutchinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshutchinson/random-hex-color/issues"
+  },
+  "homepage": "https://github.com/cshutchinson/random-hex-color#readme",
+  "dependencies": {
+    "randombinary": "^2.1.1"
+  }
+}
