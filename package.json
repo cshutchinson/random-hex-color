@@ -1,6 +1,6 @@
 {
   "name": "randomhexcolor",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "function returns a random hex string for html color codes",
   "main": "app.js",
   "scripts": {
